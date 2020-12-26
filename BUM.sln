@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUM", "BUM\BUM.csproj", "{C6FB6184-5767-47B5-BD10-C4F371261CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUM.Tests", "BUM.Tests\BUM.Tests.csproj", "{C4FD1D85-D2CF-4F6F-A32E-F48400682497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FB6184-5767-47B5-BD10-C4F371261CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FB6184-5767-47B5-BD10-C4F371261CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FB6184-5767-47B5-BD10-C4F371261CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FB6184-5767-47B5-BD10-C4F371261CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FD1D85-D2CF-4F6F-A32E-F48400682497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FD1D85-D2CF-4F6F-A32E-F48400682497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FD1D85-D2CF-4F6F-A32E-F48400682497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FD1D85-D2CF-4F6F-A32E-F48400682497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {618D956C-A97A-4CE4-8EAB-89B6AB29A734}
+	EndGlobalSection
+EndGlobal

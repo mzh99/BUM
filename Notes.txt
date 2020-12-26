@@ -1,0 +1,4 @@
+Todo:
+   - Support for UNC paths
+   - Clean up of empty folders after delete
+   - Max Path system checking?
