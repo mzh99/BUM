@@ -2,7 +2,7 @@
 Backup Manager - Windows Forms Application
 
 ### Purpose:
-Export one or more source locations (folder) to a destination location
+Export/Copy one or more source locations (folders) to a destination backup location
 
 ### Description:
 This Windows Forms application is a personal project I use to backup my files. 
